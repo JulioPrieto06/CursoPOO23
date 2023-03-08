@@ -21,6 +21,7 @@ class Car {
   public Integer getPassenger(){
     return passenger;
   }
+  
   public void setPassenger(Integer passenger){
     if(passenger == 4){
     this.passenger = passenger;
